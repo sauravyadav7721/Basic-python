@@ -1,5 +1,6 @@
+          **Basic Python for Machine Learning**
+
 ![download](https://github.com/user-attachments/assets/c4a8f573-a7ca-49c9-bcf2-2f95a1ad6b7d)
-**Basic Python for Machine Learning**
 
 Welcome to the Basic Python for Machine Learning repository! This collection is designed for beginners and enthusiasts looking to understand and implement foundational machine learning concepts using Python. I try my best to make this repository beginners friendly. Let's dive into the exciting world of Python for machine learning together!
 
