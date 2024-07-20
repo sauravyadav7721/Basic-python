@@ -17,15 +17,15 @@ Welcome to the Basic Python for Machine Learning repository! This collection is 
 **Resourceful Links:** Curated list of resources and references for further learning.
 
 **Contents:**
-1.Function of python
-2.Data Type
-3.Operator
-4.If/else
-5.Looping
-6.List
-7.Tuple
-8.Sets
-9.Dictionary
-10.Function
-11.OOPs
-12.Exception handing
+1.      Function of python
+2.      Data Type
+3.      Operator
+4.      If/else
+5.      Looping
+6.      List
+7.      Tuple
+8.      Sets
+9.      Dictionary
+10.     Function
+11.     OOPs
+12.     Exception handing
